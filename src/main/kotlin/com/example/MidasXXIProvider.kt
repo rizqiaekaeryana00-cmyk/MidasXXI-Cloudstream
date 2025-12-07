@@ -1,4 +1,3 @@
-cat > src/main/kotlin/com/example/MidasXXIProvider.kt << 'ENDOFFILE'
 package com.example
 
 import com.lagradost.cloudstream3.*
