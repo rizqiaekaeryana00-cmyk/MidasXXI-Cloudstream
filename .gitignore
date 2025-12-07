@@ -1,0 +1,22 @@
+cat > .gitignore << 'EOF'
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+local.properties
+*.log
+.idea/
+*.iml
+*.jks
+*.keystore
+.DS_Store
+*.apk
+*.aab
+*.dex
+bin/
+gen/
+out/
+.externalNativeBuild
+.cxx/
+EOF
