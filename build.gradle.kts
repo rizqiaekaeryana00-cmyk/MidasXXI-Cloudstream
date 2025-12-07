@@ -8,4 +8,3 @@ cloudstream {
     tvTypes = listOf("Movie", "TvSeries")
     iconUrl = "https://ubi.ac.id/wp-content/uploads/2024/01/midasxxi.png"
 }
-EOF

@@ -10,4 +10,3 @@ class MidasXXIPlugin: Plugin() {
         registerMainAPI(MidasXXIProvider())
     }
 }
-EOF

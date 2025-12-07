@@ -8,4 +8,3 @@ dependencyResolutionManagement {
         maven("https://jitpack.io")
     }
 }
-EOF
