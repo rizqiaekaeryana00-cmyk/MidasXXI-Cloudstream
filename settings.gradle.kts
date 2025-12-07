@@ -1,4 +1,3 @@
-cat > settings.gradle.kts << 'EOF'
 rootProject.name = "MidasXXI"
 
 dependencyResolutionManagement {
